@@ -138,7 +138,7 @@ start
         }
 end
 ```
-![Screenshot](images/flowchart4-ascd.png)
+![Screenshot](images/flowchart4-asc.png)
 
 
 # peseudocode no 4 descending
